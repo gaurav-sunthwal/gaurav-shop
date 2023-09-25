@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    /* text-align: center; */
+    padding: 10px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.manu{
+    padding: 10px;
+    text-align: center;
+}
+
+.manu :hover{
+    color: #7845458c;
+}
+
+.icons{
+    font-size: 25px;
+
+}
+.icons svg{
+    padding: 10px;
+    color:  black;
+    cursor: pointer;
+
+}
+.icons svg :hover{
+    color: #7845458c;
+}
